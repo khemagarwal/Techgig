@@ -18,6 +18,7 @@ public class CandidateCode {
    
   else if (input.hasNextLine())
   System.out.print("This input is of type string."); 
+        
 
 else
 System.out.print("This is something else.");
